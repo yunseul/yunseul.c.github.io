@@ -4,8 +4,8 @@ title: "빈티지 3단 리플렛"
 date: 2017-01-01
 categories:
   - GraphicDesign
-image: https://kjuhee0712.github.io/images/pages/20170101_aj_icr_liflet_02.jpg
-image-sm: https://kjuhee0712.github.io/images/thumbs/20170101_aj_icr_liflet_02.jpg
+image: https://yunseul.github.io/images/pages/20170101_aj_icr_liflet_02.jpg
+image-sm: https://yunseul.github.io/images/thumbs/20170101_aj_icr_liflet_02.jpg
 ---
 
 <ul class="inform">

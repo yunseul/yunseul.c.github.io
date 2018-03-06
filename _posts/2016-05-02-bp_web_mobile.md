@@ -11,8 +11,8 @@ categories:
   - MobileWeb
   - ResponsiveWeb
   - Wordpress
-image: https://kjuhee0712.github.io/images/pages/20160502_bp_web_mobile.jpg
-image-sm: https://kjuhee0712.github.io/images/thumbs/20160502_bp_web_mobile.jpg
+image: https://yunseul.github.io/images/pages/20160502_bp_web_mobile.jpg
+image-sm: https://yunseul.github.io/images/thumbs/20160502_bp_web_mobile.jpg
 link: http://bizmpeople.com/
 ---
 

@@ -4,8 +4,8 @@ title: "서비스 화면기획서"
 date: 2015-08-01
 categories:
   - WebPlan
-image: https://kjuhee0712.github.io/images/pages/20150801_cg_storyboard.jpg
-image-sm: https://kjuhee0712.github.io/images/thumbs/20150801_cg_storyboard.jpg
+image: https://yunseul.github.io/images/pages/20150801_cg_storyboard.jpg
+image-sm: https://yunseul.github.io/images/thumbs/20150801_cg_storyboard.jpg
 ---
 
 <ul class="inform">

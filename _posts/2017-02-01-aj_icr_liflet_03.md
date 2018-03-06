@@ -4,8 +4,8 @@ title: "2단 리플렛"
 date: 2017-02-01
 categories:
   - GraphicDesign
-image: https://kjuhee0712.github.io/images/pages/20170201_aj_icr_liflet_03.jpg
-image-sm: https://kjuhee0712.github.io/images/thumbs/20170201_aj_icr_liflet_03.jpg
+image: https://yunseul.github.io/images/pages/20170201_aj_icr_liflet_03.jpg
+image-sm: https://yunseul.github.io/images/thumbs/20170201_aj_icr_liflet_03.jpg
 ---
 
 <ul class="inform">

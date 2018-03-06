@@ -8,11 +8,11 @@ categories:
   - FrontEnd
   - Html,Css
   - JS,Jquery
-image: https://kjuhee0712.github.io/images/pages/20170102_aj_agg_admin.jpg
-image-sm: https://kjuhee0712.github.io/images/thumbs/20170102_aj_agg_admin.jpg
-link-01: https://github.com/kjuhee0712/kjuhee0712.github.io/blob/master/dev/aj_agg_amin_sample_page.jsp
-link-02: https://github.com/kjuhee0712/kjuhee0712.github.io/blob/master/dev/aj_agg_amin_sample_menu.jsp
-link-03: https://github.com/kjuhee0712/kjuhee0712.github.io/blob/master/dev/aj_agg_amin_sample_script.js
+image: https://yunseul.github.io/images/pages/20170102_aj_agg_admin.jpg
+image-sm: https://yunseul.github.io/images/thumbs/20170102_aj_agg_admin.jpg
+link-01: https://github.com/yunseul/yunseul.github.io/blob/master/dev/aj_agg_amin_sample_page.jsp
+link-02: https://github.com/yunseul/yunseul.github.io/blob/master/dev/aj_agg_amin_sample_menu.jsp
+link-03: https://github.com/yunseul/yunseul.github.io/blob/master/dev/aj_agg_amin_sample_script.js
 ---
 
 <ul class="inform">

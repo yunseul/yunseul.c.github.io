@@ -7,8 +7,8 @@ categories:
   - ShoppingMall
   - Design
   - Logo
-image: https://kjuhee0712.github.io/images/pages/20160903_ijn_mobile.jpg
-image-sm: https://kjuhee0712.github.io/images/thumbs/20160903_ijn_mobile.jpg
+image: https://yunseul.github.io/images/pages/20160903_ijn_mobile.jpg
+image-sm: https://yunseul.github.io/images/thumbs/20160903_ijn_mobile.jpg
 ---
 
 <ul class="inform">

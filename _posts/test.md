@@ -6,8 +6,8 @@ categories:
   - Design
   - Homepage
 description: test,test,test 
-image: https://kjuhee0712.github.io/images/pages/20111101_bs.jpg
-image-sm: https://kjuhee0712.github.io/images/thumbs/20111101_bs.jpg
+image: https://yunseul.github.io/images/pages/20111101_bs.jpg
+image-sm: https://yunseul.github.io/images/thumbs/20111101_bs.jpg
 link : http://naver.com
 ---
 

@@ -5,8 +5,8 @@ date: 2016-11-01
 categories:
   - ShoppingMall
   - Design
-image: https://kjuhee0712.github.io/images/pages/20161101_ijn_detail.jpg
-image-sm: https://kjuhee0712.github.io/images/thumbs/20161101_ijn_detail.jpg
+image: https://yunseul.github.io/images/pages/20161101_ijn_detail.jpg
+image-sm: https://yunseul.github.io/images/thumbs/20161101_ijn_detail.jpg
 ---
 
 <ul class="inform">
